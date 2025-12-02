@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DisableZM.vcxproj" Id="e991f014-dca3-487b-bc9f-98d06b36bd13" />
+</Solution>
