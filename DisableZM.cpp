@@ -485,7 +485,7 @@ int wmain()
 	chkPath();
 
 	//判断用户选择
-	if (askIfRun() == TDCBF_OK_BUTTON)
+	if (askIfRun() == IDOK)
 	{
 		//用户选择是，继续运行
 		while (1)
